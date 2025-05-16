@@ -1,4 +1,4 @@
-<pre style="font-size: 0.7rem;">
+<pre style="font-size: 0.5rem;">
 
                               \\\\\\
                            \\\\\\\\\\\\
